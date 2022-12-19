@@ -5,7 +5,7 @@ sentence1 = "Hi all, my name is Tom...I am originally from Australia."
 sentence2 = "I need to work very hard to learn more about algorithms in Python!"
 
 def solution(sentence):
-    for p in "!?',;.":
+    for p in "!?',;.@#$%^&*()_+-=[]{}|<>:~`":
         sentence = sentence.replace(p, '')
     words = sentence.split()
     return round(sum(len(word) for word in words)/len(words),2)
