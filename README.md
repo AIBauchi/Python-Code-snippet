@@ -1,2 +1,2 @@
-# Python-Code-snipplet
-Contain all possible Python code snippet that'll be needed by a python begineer Help beginners to contribute to open source projects
+# Python-Code-Snippet
+Contains all possible Python code snippets that'll be needed by a beginner at Python. Help beginners contribute to open source projects.
